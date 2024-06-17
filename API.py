@@ -8,10 +8,10 @@ from scr_prp import *
 
 data = {
     'scrape': {
-         'API_KEY' : "scr-627812",
+         'API_KEY' : "scr-",
     },
     'drive': {
-         'API_KEY' : "drv-157913",
+         'API_KEY' : "drv-",
     }
 }
 
